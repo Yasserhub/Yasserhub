@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yasser Murshed. Academic background in computer science and Public Administration.
 - 👀 I’m interested in programming in general and web development in particular.
-- 🌱 I’m currently learning Javascript, Node Js, APIs, and REACT.
+- 🌱 CSS, HTML, Javascript, Node Js, APIs, REACT, PHP, MY SQL, and MongoDB.
 - 💞️ I’m looking to collaborate on in this area.
 - 📫 You can reach me via email yasser.a.murshed@gmail.com ...
 
